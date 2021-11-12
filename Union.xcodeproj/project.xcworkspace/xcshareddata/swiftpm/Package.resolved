@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FittedSheets",
+        "repositoryURL": "https://github.com/gordontucker/FittedSheets",
+        "state": {
+          "branch": null,
+          "revision": "65f9c93718f96c6de234d38c9976e67a0d9e2b28",
+          "version": "2.4.2"
+        }
+      },
+      {
+        "package": "MapboxCommon",
+        "repositoryURL": "https://github.com/mapbox/mapbox-common-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "8d107b2dae7822f75e1bedfebe3be9d14a1d81df",
+          "version": "20.1.0"
+        }
+      },
+      {
+        "package": "MapboxCoreMaps",
+        "repositoryURL": "https://github.com/mapbox/mapbox-core-maps-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "ebb10128747d417c23755486eeb976fbe89f103c",
+          "version": "10.1.0"
+        }
+      },
+      {
+        "package": "MapboxMobileEvents",
+        "repositoryURL": "https://github.com/mapbox/mapbox-events-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "e29f48d9ed02b31ef51f9774a9c45f1d7c2c2b78",
+          "version": "1.0.6"
+        }
+      },
+      {
+        "package": "MapboxMaps",
+        "repositoryURL": "https://github.com/mapbox/mapbox-maps-ios.git",
+        "state": {
+          "branch": null,
+          "revision": "4c58ce320a716ef6b7337186076ef3d8279882f7",
+          "version": "10.1.0"
+        }
+      },
+      {
+        "package": "Turf",
+        "repositoryURL": "https://github.com/mapbox/turf-swift.git",
+        "state": {
+          "branch": null,
+          "revision": "dccd79aee4c21298d1beb81cc0e86eccbe911ae0",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
